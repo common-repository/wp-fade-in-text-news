@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP fade in text news\n"
+"POT-Creation-Date: 2019-08-10 00:31+0800\n"
+"PO-Revision-Date: 2019-08-10 00:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-fade-in-text-news.php:154 ../wp-fade-in-text-news.php:279
+#: ../wp-fade-in-text-news.php:280 ../wp-fade-in-text-news.php:289
+#: ../wp-fade-in-text-news.php:294 ../pages/content-management-add.php:96
+#: ../pages/content-management-edit.php:121
+#: ../pages/content-management-show.php:53 ../pages/widget-setting.php:6
+msgid "Fade in text news"
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:156 ../pages/content-management-add.php:159
+#: ../pages/content-management-edit.php:192
+#: ../pages/content-management-show.php:132 ../pages/widget-setting.php:129
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:157 ../pages/content-management-add.php:160
+#: ../pages/content-management-edit.php:193
+#: ../pages/content-management-show.php:133 ../pages/widget-setting.php:130
+msgid "click here"
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:323
+msgid "Please enter the text."
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:324
+msgid "Please enter the link."
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:325
+msgid "Please select the display status."
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:326
+msgid "Please select the group name. this field is used to group the news."
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:327
+msgid "Please select the display dtatus."
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:328
+msgid "Please enter the display order, only number."
+msgstr ""
+
+#: ../wp-fade-in-text-news.php:329
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../pages/content-management-add.php:27
+#: ../pages/content-management-edit.php:56
+msgid "Please enter the popup message."
+msgstr ""
+
+#: ../pages/content-management-add.php:47
+#: ../pages/content-management-edit.php:76
+msgid "Please enter the expiration date in this format YYYY-MM-DD."
+msgstr ""
+
+#: ../pages/content-management-add.php:62
+msgid "Details was successfully added."
+msgstr ""
+
+#: ../pages/content-management-add.php:98
+msgid "Add news"
+msgstr ""
+
+#: ../pages/content-management-add.php:99
+#: ../pages/content-management-edit.php:124
+msgid "Enter the news/message"
+msgstr ""
+
+#: ../pages/content-management-add.php:101
+#: ../pages/content-management-edit.php:126
+msgid "We can enter HTML content in this textarea"
+msgstr ""
+
+#: ../pages/content-management-add.php:102
+#: ../pages/content-management-edit.php:127
+msgid "Enter target link"
+msgstr ""
+
+#: ../pages/content-management-add.php:104
+#: ../pages/content-management-edit.php:129
+msgid "When someone clicks on the content, where do you want to send them"
+msgstr ""
+
+#: ../pages/content-management-add.php:105
+#: ../pages/content-management-edit.php:130
+msgid "Select fadein group"
+msgstr ""
+
+#: ../pages/content-management-add.php:132
+#: ../pages/content-management-edit.php:165
+msgid "This is to group the message. Select your group from the list"
+msgstr ""
+
+#: ../pages/content-management-add.php:133
+#: ../pages/content-management-edit.php:166
+msgid "Display status"
+msgstr ""
+
+#: ../pages/content-management-add.php:139
+#: ../pages/content-management-edit.php:172
+msgid "Do you want to show this message?"
+msgstr ""
+
+#: ../pages/content-management-add.php:140
+#: ../pages/content-management-edit.php:173
+msgid "Display order"
+msgstr ""
+
+#: ../pages/content-management-add.php:142
+#: ../pages/content-management-edit.php:175
+msgid "Please enter news display order in this box. Only number"
+msgstr ""
+
+#: ../pages/content-management-add.php:144
+#: ../pages/content-management-edit.php:177
+msgid "Expiration date"
+msgstr ""
+
+#: ../pages/content-management-add.php:146
+msgid ""
+"Please enter the expiration date in this format YYYY-MM-DD <br /> "
+"9999-12-30 : Is equal to no expire."
+msgstr ""
+
+#: ../pages/content-management-add.php:151
+#: ../pages/content-management-edit.php:184 ../pages/widget-setting.php:121
+msgid "Submit"
+msgstr ""
+
+#: ../pages/content-management-add.php:152
+#: ../pages/content-management-edit.php:185 ../pages/widget-setting.php:122
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/content-management-add.php:153
+#: ../pages/content-management-edit.php:186
+#: ../pages/content-management-show.php:123 ../pages/widget-setting.php:123
+msgid "Help"
+msgstr ""
+
+#: ../pages/content-management-edit.php:18
+#: ../pages/content-management-show.php:23
+msgid "Oops, selected details doesnt exist"
+msgstr ""
+
+#: ../pages/content-management-edit.php:97
+msgid "Details was successfully updated."
+msgstr ""
+
+#: ../pages/content-management-edit.php:123
+msgid "Edit news"
+msgstr ""
+
+#: ../pages/content-management-edit.php:179
+msgid "Please enter the expiration date in this format YYYY-MM-DD"
+msgstr ""
+
+#: ../pages/content-management-show.php:41
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/content-management-show.php:54
+#: ../pages/content-management-show.php:121
+msgid "Add New"
+msgstr ""
+
+#: ../pages/content-management-show.php:65
+#: ../pages/content-management-show.php:74
+msgid "Message/News"
+msgstr ""
+
+#: ../pages/content-management-show.php:66
+#: ../pages/content-management-show.php:75
+msgid "Group/Type"
+msgstr ""
+
+#: ../pages/content-management-show.php:67
+#: ../pages/content-management-show.php:76
+msgid "Display Status"
+msgstr ""
+
+#: ../pages/content-management-show.php:68
+#: ../pages/content-management-show.php:77
+msgid "Order"
+msgstr ""
+
+#: ../pages/content-management-show.php:69
+#: ../pages/content-management-show.php:78
+msgid "Expiration"
+msgstr ""
+
+#: ../pages/content-management-show.php:112
+msgid "No records available"
+msgstr ""
+
+#: ../pages/content-management-show.php:122 ../pages/widget-setting.php:7
+msgid "Widget setting"
+msgstr ""
+
+#: ../pages/content-management-show.php:125
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../pages/content-management-show.php:127
+msgid "Drag and drop the widget."
+msgstr ""
+
+#: ../pages/content-management-show.php:128
+msgid "Add the plugin in the posts or pages using short code."
+msgstr ""
+
+#: ../pages/content-management-show.php:129
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
+
+#: ../pages/widget-setting.php:52
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../pages/widget-setting.php:60
+msgid "Enter widget title."
+msgstr ""
+
+#: ../pages/widget-setting.php:64
+msgid "Fade Out:"
+msgstr ""
+
+#: ../pages/widget-setting.php:66 ../pages/widget-setting.php:70
+#: ../pages/widget-setting.php:74 ../pages/widget-setting.php:78
+#: ../pages/widget-setting.php:82
+msgid "Please enter only number"
+msgstr ""
+
+#: ../pages/widget-setting.php:68
+msgid "Fade In:"
+msgstr ""
+
+#: ../pages/widget-setting.php:72
+msgid "Fade:"
+msgstr ""
+
+#: ../pages/widget-setting.php:76
+msgid "Fade Step:"
+msgstr ""
+
+#: ../pages/widget-setting.php:80
+msgid "Fade Wait:"
+msgstr ""
+
+#: ../pages/widget-setting.php:84
+msgid "Select your news group"
+msgstr ""
+
+#: ../pages/widget-setting.php:118
+msgid "Select your group name to display the news for widget."
+msgstr ""
